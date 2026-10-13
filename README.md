@@ -7,7 +7,7 @@ CS Engineering student at VCET (VTU), backend & full-stack developer, and Minecr
 - 🌾 Building O~Bele, an agricultural tool rental platform (Node.js, Express)
 - 📚 Also built a MERN E-Library system and the Cells AMS attendance system
 
-**Stack:** C++ · C · JavaScript · Java · Python · Node.js · Express · React · MongoDB · Git
+**Stack:** C++ · C · TypeScript · JavaScript · Java · Python · Node.js · Express · React · MongoDB · Git
 
 📫 [jnaneshsharmah@gmail.com](mailto:jnaneshsharmah@gmail.com)
 
