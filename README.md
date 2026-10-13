@@ -2,7 +2,7 @@
 
 CS Engineering student at VCET (VTU), backend & full-stack developer, and Minecraft server admin.
 
-- 💼 Software Intern at Akanksha Charitable Trust: JWT auth, FCM notification service, Firestore
+- 💼 Worked as Software Intern at Akanksha Charitable Trust: JWT auth, FCM notification service, Firestore
 - ⛏️ Admin of MGU.One Minecraft server, built a custom Java Paper plugin (AIBridge)
 - 🌾 Building O~Bele, an agricultural tool rental platform (Node.js, Express)
 - 📚 Also built a MERN E-Library system and the Cells AMS attendance system
